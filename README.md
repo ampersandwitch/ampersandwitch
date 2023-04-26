@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ampersandwitch
 - 👀 I’m interested in Conversational AI
-- 🌱 I’m currently learning generative art fundamentals
-- 💞️ I’m looking to collaborate on algorithmic art projects
+- 🌱 I’m currently learning NLP/ML
 - 📫 How to reach me : after the beep.
 
 <!---
